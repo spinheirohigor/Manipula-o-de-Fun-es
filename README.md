@@ -1,2 +1,2 @@
-# Manipula-o-de-Fun-es
+# Manipulacao de funcoes
 Exercícios práticos para manipulação de funções
